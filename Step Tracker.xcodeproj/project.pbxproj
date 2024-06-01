@@ -63,9 +63,9 @@
 				C30A2D1A2C07F386001829BC /* HealthDataListView.swift */,
 				C32C7A482BFD516F00CDC5C7 /* DashboardView.swift */,
 				C30A2D1E2C0A8463001829BC /* HealthKitPermissionPrimingView.swift */,
+				C30A2D212C0A98C2001829BC /* HealthKitManager.swift */,
 				C32C7A4A2BFD517100CDC5C7 /* Assets.xcassets */,
 				C32C7A4C2BFD517100CDC5C7 /* Preview Content */,
-				C30A2D212C0A98C2001829BC /* HealthKitManager.swift */,
 			);
 			path = "Step Tracker";
 			sourceTree = "<group>";
