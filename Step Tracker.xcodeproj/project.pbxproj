@@ -16,6 +16,7 @@
 		C30A2D2E2C0E4047001829BC /* ChartDataTypes.swift in Sources */ = {isa = PBXBuildFile; fileRef = C30A2D2D2C0E4047001829BC /* ChartDataTypes.swift */; };
 		C30A2D312C0E40C2001829BC /* Date+Ext.swift in Sources */ = {isa = PBXBuildFile; fileRef = C30A2D302C0E40C2001829BC /* Date+Ext.swift */; };
 		C30A2D342C0E44FD001829BC /* Algorithms in Frameworks */ = {isa = PBXBuildFile; productRef = C30A2D332C0E44FD001829BC /* Algorithms */; };
+		C30A2D362C0E48F3001829BC /* StepPieChart.swift in Sources */ = {isa = PBXBuildFile; fileRef = C30A2D352C0E48F3001829BC /* StepPieChart.swift */; };
 		C32C7A472BFD516F00CDC5C7 /* Step_TrackerApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = C32C7A462BFD516F00CDC5C7 /* Step_TrackerApp.swift */; };
 		C32C7A492BFD516F00CDC5C7 /* DashboardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C32C7A482BFD516F00CDC5C7 /* DashboardView.swift */; };
 		C32C7A4B2BFD517100CDC5C7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C32C7A4A2BFD517100CDC5C7 /* Assets.xcassets */; };
@@ -32,6 +33,7 @@
 		C30A2D2B2C0E4006001829BC /* ChartMath.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChartMath.swift; sourceTree = "<group>"; };
 		C30A2D2D2C0E4047001829BC /* ChartDataTypes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChartDataTypes.swift; sourceTree = "<group>"; };
 		C30A2D302C0E40C2001829BC /* Date+Ext.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Date+Ext.swift"; sourceTree = "<group>"; };
+		C30A2D352C0E48F3001829BC /* StepPieChart.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StepPieChart.swift; sourceTree = "<group>"; };
 		C32C7A432BFD516F00CDC5C7 /* Step Tracker.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Step Tracker.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		C32C7A462BFD516F00CDC5C7 /* Step_TrackerApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Step_TrackerApp.swift; sourceTree = "<group>"; };
 		C32C7A482BFD516F00CDC5C7 /* DashboardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DashboardView.swift; sourceTree = "<group>"; };
@@ -55,6 +57,7 @@
 			isa = PBXGroup;
 			children = (
 				C30A2D252C0E3C25001829BC /* StepBarChart.swift */,
+				C30A2D352C0E48F3001829BC /* StepPieChart.swift */,
 				C30A2D2B2C0E4006001829BC /* ChartMath.swift */,
 				C30A2D2D2C0E4047001829BC /* ChartDataTypes.swift */,
 			);
@@ -220,6 +223,7 @@
 				C30A2D2C2C0E4006001829BC /* ChartMath.swift in Sources */,
 				C30A2D242C0C329A001829BC /* HealthMetric.swift in Sources */,
 				C30A2D2E2C0E4047001829BC /* ChartDataTypes.swift in Sources */,
+				C30A2D362C0E48F3001829BC /* StepPieChart.swift in Sources */,
 				C30A2D312C0E40C2001829BC /* Date+Ext.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
