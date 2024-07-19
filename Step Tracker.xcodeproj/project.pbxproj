@@ -27,6 +27,7 @@
 		C35475CC2C4A11AE00DCFBF4 /* ChartContainer.swift in Sources */ = {isa = PBXBuildFile; fileRef = C35475CB2C4A11AE00DCFBF4 /* ChartContainer.swift */; };
 		C35475CE2C4A178200DCFBF4 /* ChartHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = C35475CD2C4A178200DCFBF4 /* ChartHelper.swift */; };
 		C35475D02C4A18AD00DCFBF4 /* ChartAnnotationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C35475CF2C4A18AD00DCFBF4 /* ChartAnnotationView.swift */; };
+		C35475D22C4A228C00DCFBF4 /* STError.swift in Sources */ = {isa = PBXBuildFile; fileRef = C35475D12C4A228C00DCFBF4 /* STError.swift */; };
 		C36C2E802C24ED4A007126B5 /* ChartEmptyView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C36C2E7F2C24ED4A007126B5 /* ChartEmptyView.swift */; };
 /* End PBXBuildFile section */
 
@@ -52,6 +53,7 @@
 		C35475CB2C4A11AE00DCFBF4 /* ChartContainer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChartContainer.swift; sourceTree = "<group>"; };
 		C35475CD2C4A178200DCFBF4 /* ChartHelper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChartHelper.swift; sourceTree = "<group>"; };
 		C35475CF2C4A18AD00DCFBF4 /* ChartAnnotationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChartAnnotationView.swift; sourceTree = "<group>"; };
+		C35475D12C4A228C00DCFBF4 /* STError.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = STError.swift; sourceTree = "<group>"; };
 		C36C2E7F2C24ED4A007126B5 /* ChartEmptyView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChartEmptyView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -123,6 +125,7 @@
 			children = (
 				C30A2D2F2C0E40B7001829BC /* Extensions */,
 				C30A2D3A2C0FF902001829BC /* MockData.swift */,
+				C35475D12C4A228C00DCFBF4 /* STError.swift */,
 			);
 			path = Utilities;
 			sourceTree = "<group>";
@@ -252,6 +255,7 @@
 				C30A2D3B2C0FF902001829BC /* MockData.swift in Sources */,
 				C36C2E802C24ED4A007126B5 /* ChartEmptyView.swift in Sources */,
 				C32C7A472BFD516F00CDC5C7 /* Step_TrackerApp.swift in Sources */,
+				C35475D22C4A228C00DCFBF4 /* STError.swift in Sources */,
 				C30A2D222C0A98C2001829BC /* HealthKitManager.swift in Sources */,
 				C30A2D1F2C0A8463001829BC /* HealthKitPermissionPrimingView.swift in Sources */,
 				C35475CE2C4A178200DCFBF4 /* ChartHelper.swift in Sources */,
