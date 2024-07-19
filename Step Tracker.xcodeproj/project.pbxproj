@@ -28,6 +28,7 @@
 		C35475CE2C4A178200DCFBF4 /* ChartHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = C35475CD2C4A178200DCFBF4 /* ChartHelper.swift */; };
 		C35475D02C4A18AD00DCFBF4 /* ChartAnnotationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C35475CF2C4A18AD00DCFBF4 /* ChartAnnotationView.swift */; };
 		C35475D22C4A228C00DCFBF4 /* STError.swift in Sources */ = {isa = PBXBuildFile; fileRef = C35475D12C4A228C00DCFBF4 /* STError.swift */; };
+		C35475D42C4A2C5D00DCFBF4 /* Array+Ext.swift in Sources */ = {isa = PBXBuildFile; fileRef = C35475D32C4A2C5D00DCFBF4 /* Array+Ext.swift */; };
 		C36C2E802C24ED4A007126B5 /* ChartEmptyView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C36C2E7F2C24ED4A007126B5 /* ChartEmptyView.swift */; };
 /* End PBXBuildFile section */
 
@@ -54,6 +55,7 @@
 		C35475CD2C4A178200DCFBF4 /* ChartHelper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChartHelper.swift; sourceTree = "<group>"; };
 		C35475CF2C4A18AD00DCFBF4 /* ChartAnnotationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChartAnnotationView.swift; sourceTree = "<group>"; };
 		C35475D12C4A228C00DCFBF4 /* STError.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = STError.swift; sourceTree = "<group>"; };
+		C35475D32C4A2C5D00DCFBF4 /* Array+Ext.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Array+Ext.swift"; sourceTree = "<group>"; };
 		C36C2E7F2C24ED4A007126B5 /* ChartEmptyView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChartEmptyView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -116,6 +118,7 @@
 			isa = PBXGroup;
 			children = (
 				C30A2D302C0E40C2001829BC /* Date+Ext.swift */,
+				C35475D32C4A2C5D00DCFBF4 /* Array+Ext.swift */,
 			);
 			path = Extensions;
 			sourceTree = "<group>";
@@ -263,6 +266,7 @@
 				C30A2D242C0C329A001829BC /* HealthMetric.swift in Sources */,
 				C30A2D2E2C0E4047001829BC /* ChartDataTypes.swift in Sources */,
 				C30A2D362C0E48F3001829BC /* StepPieChart.swift in Sources */,
+				C35475D42C4A2C5D00DCFBF4 /* Array+Ext.swift in Sources */,
 				C30A2D382C0FF7BB001829BC /* WeightLineChart.swift in Sources */,
 				C30A2D312C0E40C2001829BC /* Date+Ext.swift in Sources */,
 			);
