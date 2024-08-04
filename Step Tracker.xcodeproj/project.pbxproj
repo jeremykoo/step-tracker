@@ -82,9 +82,9 @@
 		C30A2D282C0E3E0B001829BC /* Screens */ = {
 			isa = PBXGroup;
 			children = (
+				C32C7A482BFD516F00CDC5C7 /* DashboardView.swift */,
 				C30A2D1A2C07F386001829BC /* HealthDataListView.swift */,
 				C30A2D1E2C0A8463001829BC /* HealthKitPermissionPrimingView.swift */,
-				C32C7A482BFD516F00CDC5C7 /* DashboardView.swift */,
 			);
 			path = Screens;
 			sourceTree = "<group>";
